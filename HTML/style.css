@@ -1,6 +1,8 @@
 body {
 background-color: rgb(165, 165, 165);
 font-family: Verdana;
+height: 800px;
+margin: auto;
 }
 
 .photo  {
@@ -45,11 +47,14 @@ border-radius: 5px;
 margin: 0;
 margin-bottom: 15px;
 text-transform: capitalize;
+text-align: center;
 
 }
 
 .post_image {
 margin-bottom: 15px;
+height: 100%;
+margin: auto;
 
 
 }
